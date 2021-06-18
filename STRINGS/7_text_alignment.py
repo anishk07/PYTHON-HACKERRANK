@@ -5,11 +5,15 @@ Task
 
 You are given a partial code that is used for generating the HackerRank Logo of variable thickness.
 Your task is to replace the blank (______) with rjust, ljust or center.
+
+H   H
+H   H
+HHHHH        <- SOMETHING LIKE THIS
+H   H
+H   H
 """
 
 # CODE:
-
-# Replace all ______ with rjust, ljust or center.
 
 thickness = int(input())  # This must be an odd number
 c = 'H'
