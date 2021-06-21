@@ -1,7 +1,7 @@
 # @author: ANISHK YADAV
 
 """
-Given an integer, n, print the following values for each integer n from 1 to n:
+Given an integer, n, print the following values for each integer i from 1 to n:
 
 Decimal
 Octal
